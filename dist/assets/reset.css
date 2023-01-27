@@ -1,4 +1,3 @@
-/* ------ ⬇ reset css style ⬇ ------- */
 /* Resets the box size of every element */
 * {
     margin: 0;
@@ -32,4 +31,3 @@
   ol, ul {
     list-style: none;
   }
-  /* ------ ⬆ reset css style ⬆ ------- */
