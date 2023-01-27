@@ -7,10 +7,10 @@
 
 .employee-card {
   /* add card style */
-  box-shadow: 0 0 10px 0 rgba(17, 17, 17, 0.2);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
   margin: 1%;
   border-radius: 10px;
-  color: rgb(0, 30, 255);
+  color: rgb(74, 77, 79);
 }
 
 .employee-card .card-header {
@@ -23,7 +23,7 @@ header .team-heading,
 .employee-card .card-header {
   background-image: radial-gradient(
     circle farthest-corner at 92.3% 71.5%,
-    rgb(0, 106, 255) 0%,
+    rgb(0, 26, 255) 0%,
     rgb(255, 0, 0) 90%
   );
   color: white;
